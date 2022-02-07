@@ -1,0 +1,15 @@
+F:\git\Task c#\Task006\bin\Debug\net6.0\Task006.exe
+F:\git\Task c#\Task006\bin\Debug\net6.0\Task006.deps.json
+F:\git\Task c#\Task006\bin\Debug\net6.0\Task006.runtimeconfig.json
+F:\git\Task c#\Task006\bin\Debug\net6.0\Task006.dll
+F:\git\Task c#\Task006\bin\Debug\net6.0\ref\Task006.dll
+F:\git\Task c#\Task006\bin\Debug\net6.0\Task006.pdb
+F:\git\Task c#\Task006\obj\Debug\net6.0\Task006.csproj.AssemblyReference.cache
+F:\git\Task c#\Task006\obj\Debug\net6.0\Task006.GeneratedMSBuildEditorConfig.editorconfig
+F:\git\Task c#\Task006\obj\Debug\net6.0\Task006.AssemblyInfoInputs.cache
+F:\git\Task c#\Task006\obj\Debug\net6.0\Task006.AssemblyInfo.cs
+F:\git\Task c#\Task006\obj\Debug\net6.0\Task006.csproj.CoreCompileInputs.cache
+F:\git\Task c#\Task006\obj\Debug\net6.0\Task006.dll
+F:\git\Task c#\Task006\obj\Debug\net6.0\ref\Task006.dll
+F:\git\Task c#\Task006\obj\Debug\net6.0\Task006.pdb
+F:\git\Task c#\Task006\obj\Debug\net6.0\Task006.genruntimeconfig.cache
