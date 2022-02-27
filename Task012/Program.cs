@@ -13,21 +13,21 @@ int a = vvodChisla();
 if (a > 99)
 {
     if(a < 1000)
-    {
+        {
         int b = a % 10;
         a = a / 100 * 10 + b;
         Console.WriteLine($"После удаления  второй цифры получится: {a}");
         return;
-    }
-}
-if (a < -99)
-    {
-    if(a > -1000)
-    {
+        }
+        }
+        if (a < -99)
+        {
+        if(a > -1000)
+        {
         int b = a % 10;
         a = a / 100 * 10 + b;
         Console.WriteLine($"Если удалить вторую цифру получится: {a}");
         return;
-    }
+        }
 }
 Console.WriteLine("Введите трехзначное число!");
